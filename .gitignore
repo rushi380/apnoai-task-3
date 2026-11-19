@@ -1,0 +1,16 @@
+# Local server / test artifacts
+.server.log
+.server.pid
+.dev-server.js
+.imgcheck/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Vercel
+.vercel
